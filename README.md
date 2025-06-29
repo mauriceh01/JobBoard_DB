@@ -76,6 +76,17 @@ The database includes tested views and queries for:
 
 Test data was inserted for all tables, ensuring full referential integrity. Data validation queries and analytics were used to confirm consistency.
 
+## 📌 Author
+Created by: Maurice Hazan on June 29, 2025
+
+📧 [mauriceh01@hotmail.com](mailto:mauriceh01@hotmail.com)     
+
+🌉 [LinkedIn](https://linkedin.com/in/mohazan)     
+
+🔗 [GitHub](https://github.com/mauriceh01)       
+
+
+
 ## 📁 Getting Started
 
 To install the database locally:
@@ -83,10 +94,9 @@ To install the database locally:
 ```sql
 CREATE DATABASE JobBoard_DB;
 -- Then run the SQL schema and insert files
-
-📌 Author
-Maurice Hazan
-
+```
 📝 License
 This project is released under the MIT License.
+
+
 
